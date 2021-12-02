@@ -6,3 +6,4 @@ To find more infomation about Advent of Code go [here](https://adventofcode.com/
 
 ## Results
 - [Day 1](src/Day_1.py): :star: :star:
+- [Day 2](src/Day_2.py): :star: :star:
